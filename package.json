@@ -1,5 +1,5 @@
 {
-    "name": "folder-tree",
+    "name": "npm-tree",
     "version": "1.0.0",
     "description": "An awesome folder tree",
     "main": "./index.js",
@@ -7,9 +7,10 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "tree": "./index.js"
+        "npm-tree": "./index.js"
     },
     "author": "Petr Tripolsky",
     "preferGlobal": true,
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {}
 }
