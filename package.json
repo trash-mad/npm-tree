@@ -1,0 +1,15 @@
+{
+    "name": "folder-tree",
+    "version": "1.0.0",
+    "description": "An awesome folder tree",
+    "main": "./index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "tree": "./index.js"
+    },
+    "author": "Petr Tripolsky",
+    "preferGlobal": true,
+    "license": "MIT"
+}
